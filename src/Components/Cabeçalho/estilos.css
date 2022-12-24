@@ -1,0 +1,14 @@
+
+.itens:hover{
+    color: rgba(255, 168, 7, 0.678);
+    transition: all 0.5s ;
+}
+
+.link { text-decoration: none;
+}
+
+
+.logo {
+    width: 200px;
+    height: 180px;
+}
